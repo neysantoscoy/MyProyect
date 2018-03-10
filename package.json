@@ -1,0 +1,25 @@
+{
+  "name": "myproyect",
+  "version": "0.1.0",
+  "description": "Art web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "browser-sync start --server --files 'css/*.css', 'js/*.js', *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neysantoscoy/MyProyect.git"
+  },
+  "keywords": [
+    "art",
+    "html",
+    "css"
+  ],
+  "author": "\"Neysa Santoscoy <neysantoscoy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neysantoscoy/MyProyect/issues"
+  },
+  "homepage": "https://github.com/neysantoscoy/MyProyect#readme"
+}
